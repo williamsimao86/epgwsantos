@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Mundi">
+    <display-name lang="pt">HBO Mundi</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Pop">
+    <display-name lang="pt">HBO Pop</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Xtreme">
+    <display-name lang="pt">HBO Xtreme</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO+">
+    <display-name lang="pt">HBO+</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="pt">Paramount Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="pt">SPACE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM - Turner Classic Movies">
+    <display-name lang="pt">TCM - Turner Classic Movies</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
